@@ -26,3 +26,8 @@
 ## GIT FETCH
 01. git fetch origin nova-branch puxando mudanças do repositório remoto para o local (print_16)
 02. git merge origin nova-branch realizando o merge com a recém-alterada nova-branch puxada pelo passo anterior (print_17)
+
+## GIT PULL
+01. git pull origin nova-branch puxando arquivos recém empurrados ao ramo remoto nova-branch (print_18)
+02. git status mostrando o ramo master local a frente do ramo master remoto após o pull (print_19)
+
